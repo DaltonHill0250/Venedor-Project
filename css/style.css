@@ -1,0 +1,101 @@
+body{
+    width: 100%;
+    border-radius: 10%;
+    border: 24px, solid;
+}
+h2 {
+    border-left: 5px rgb(0, 183, 255) solid;
+}
+.topnav{
+    /* width: 1080px; */
+    background: rgb(230, 223, 223);
+    /* width: 100%; */
+}
+.topnav ul{
+    /* margin-left: 300px; */
+    color: blue;
+    display: inline;
+    list-style: none;
+}
+.topnav li{
+    padding: 4px;
+    display: inline; 
+    text-decoration: none;
+}
+.topnav p{
+    margin-left: 235px;
+}
+.titlebar{
+    width: 100%;
+}
+.titlebar ul{
+    margin-top: 35px;
+    list-style: none;
+    margin-left: 262px;
+}
+.titlebar a{
+    border: 5px rgb(211, 210, 210) solid;
+    background: rgb(211, 210, 210);
+    /* border-radius: 20px;// */
+}
+.titlebar li{
+    display: inline;
+    list-style: none;
+}
+.mainnav{
+    width: 100%;
+}
+.mainnav ul{
+    display: inline;
+    list-style: none;
+
+}
+.mainnav li{
+    display: inline; 
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
+.mainnav a{
+    color: black
+}
+.mainnav a :hover{
+    color: blue;
+}
+.search{
+    /* margin-left: 235; */
+    float: right;
+}
+.heropicture{
+    background: rgb(230, 229, 229);
+}
+
+.picturebar2 a{
+    border: 5px rgb(94, 91, 91) solid;
+    /* border-radius: 20px; */
+    background: rgb(94, 91, 91);
+    margin-left: 75px;
+    color: #fff;
+}
+.picturebar3 a{
+    border: 5px rgb(94, 91, 91) solid;
+    /* border-radius: 20px; */
+    background: rgb(94, 91, 91);
+    margin-left: 45px;
+    color: #fff;
+}
+.picturebar3 img{
+    width: 200px;
+    height: 250px;
+}
+.signup{
+    background: rgb(230, 223, 223);
+}
+.signup-bar{
+    margin-top: 7px;
+    margin-left: 311px;
+}
+.bottom{
+    background: rgb(67, 75, 77);
+    color: white;
+}
